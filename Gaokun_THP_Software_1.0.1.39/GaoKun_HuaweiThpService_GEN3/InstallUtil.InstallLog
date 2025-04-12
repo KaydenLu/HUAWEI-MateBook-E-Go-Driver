@@ -1,0 +1,18 @@
+﻿
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Gaokun_THP_Software_1.0.1.39\GaoKun_HuaweiThpService_GEN3\HuaweiThpService.exe assembly's progress.
+The file is located at D:\Gaokun_THP_Software_1.0.1.39\GaoKun_HuaweiThpService_GEN3\HuaweiThpService.InstallLog.
+
+An exception occurred during the Install phase.
+System.InvalidOperationException: Cannot open Service Control Manager on computer '.'. This operation might require other privileges.
+The inner exception System.ComponentModel.Win32Exception was thrown with the following error message: Access is denied.
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the D:\Gaokun_THP_Software_1.0.1.39\GaoKun_HuaweiThpService_GEN3\HuaweiThpService.exe assembly's progress.
+The file is located at D:\Gaokun_THP_Software_1.0.1.39\GaoKun_HuaweiThpService_GEN3\HuaweiThpService.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.

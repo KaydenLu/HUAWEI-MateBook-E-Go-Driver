@@ -1,0 +1,13 @@
+﻿Installing assembly 'D:\Gaokun_THP_Software_1.0.1.39\GaoKun_HuaweiThpService_GEN3\HuaweiThpService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Gaokun_THP_Software_1.0.1.39\GaoKun_HuaweiThpService_GEN3\HuaweiThpService.exe
+   logfile = D:\Gaokun_THP_Software_1.0.1.39\GaoKun_HuaweiThpService_GEN3\HuaweiThpService.InstallLog
+Installing service HuaweiThpService...
+Creating EventLog source HuaweiThpService in log Application...
+Rolling back assembly 'D:\Gaokun_THP_Software_1.0.1.39\GaoKun_HuaweiThpService_GEN3\HuaweiThpService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Gaokun_THP_Software_1.0.1.39\GaoKun_HuaweiThpService_GEN3\HuaweiThpService.exe
+   logfile = D:\Gaokun_THP_Software_1.0.1.39\GaoKun_HuaweiThpService_GEN3\HuaweiThpService.InstallLog
+Restoring event log to previous state for source HuaweiThpService.
