@@ -1,5 +1,5 @@
 # HUAWEI-MateBook-E-Go-Driver
-HUAWEI MateBook E Go drivers, including some updates based on Qualcomm reference drivers	
+HUAWEI MateBook E Go drivers, including some updates based on Qualcomm reference drivers, See release for downloads
 
 On Windows 11 24H2, the touchscreen may not work properly, you may fix it according to the following instructions	
 
